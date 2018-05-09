@@ -26,7 +26,7 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: Akhmadjon Ruzikulov's Personal Webpage
+description: Mobin Arablou's Personal Webpage
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://Mobinlion.github.io" # the base hostname & protocol for your site
 
