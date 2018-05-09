@@ -16,7 +16,7 @@ The Webpage features:
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Particle Theme](https://github.com/aruzikulov/aruzikulov.github.io)
+2. Fork the [Particle Theme](https://github.com/Mobinlion/Mobinlion.github.io)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 
@@ -28,16 +28,15 @@ You have to fill some informations on `_config.yml` to customize your site.
 # Site settings
 description: Akhmadjon Ruzikulov's Personal Webpage
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://aruzikulov.github.io" # the base hostname & protocol for your site
+url: "https://Mobinlion.github.io" # the base hostname & protocol for your site
 
 # User settings
-username: Akhmadjon Ruzikulov
-user_description: Co-Founder & CTO at OBORCHAIN <br> Software Developer
-user_title: Akhmadjon Ruzikulov
-email: aruzikulov@hust.edu.cn
-twitter_username: aruzikulov
-github_username:  aruzikulov
-gplus_username:  ruzikulov
+username: Mobin Arablou
+user_description: Lead Programmer at OBORChain
+user_title: Mobin Arablou
+email: Mobin@hust.edu.cn
+twitter_username: MobinArablou
+github_username:  Mobinlion
 ```
 
 **Don't forget to change your url before you deploy your site!**
@@ -59,7 +58,7 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 
 ## Questions
 
-Having any issues file a [GitHub Issue](https://github.com/aruzikulov/aruzikulov.github.io/issues).
+Having any issues file a [GitHub Issue](https://github.com/Mobinlion/Mobinlion.github.io/issues )
 
 ## License
 
